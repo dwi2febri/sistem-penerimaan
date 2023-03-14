@@ -1,4 +1,5 @@
 # sistem PMB Unisbank dengan CI, PHP, dan MySql
+# berikut adalah tampilan sistemnya
 ![image](https://user-images.githubusercontent.com/127840694/224984205-837c9b40-f6b5-4b54-8a88-aeab24ad675d.png)
 
 ![image](https://user-images.githubusercontent.com/127840694/224984374-a48e9a61-7517-4baf-b601-91b7650da5d9.png)
